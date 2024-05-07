@@ -1,2 +1,2 @@
 # Color-Flipper
-Live Peview - https://anubhav-tomar.github.io/Colour-Changer/
+Live Preview - https://anubhav-tomar.github.io/Colour-Changer/
